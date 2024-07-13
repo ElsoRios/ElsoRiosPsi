@@ -45198,7 +45198,7 @@ $0(){var s,r,q,p,o,n=null,m="DESKTOP",l=1073741823,k=this.a,j=k.d,i=this.b,h=A.G
 c=A.ck(n,new A.aW(B.cd,A.bB("Psicoterapia".toUpperCase(),n,n,A.uy(i).bP(A.G(i).ay.b),n),n),B.q,b.ay.r,n,n,n,n,n,n,n,n,n,c.a.a)
 b=A.cv(i).cV(m)?B.ir:B.f2
 s=e.gl(0)
-s=A.yT(new A.dT(j.SP(i),s,n),n,n,l,!0,n,n,l)
+s=A.yT(new A.dT(j.SQ(i),s,n),n,n,l,!0,n,n,l)
 r=e.gl(0)
 q=A.cv(i).cV(m)?B.bM:B.he
 p=t.rH
@@ -45209,7 +45209,7 @@ q=A.G(i)
 g=A.ck(n,new A.aW(B.cd,A.bB("Abordagem de trabalho".toUpperCase(),n,n,A.uy(i).bP(A.G(i).ay.b),n),n),B.q,q.ay.r,n,n,n,n,n,n,n,n,n,g.a.a)
 s=A.cv(i).cV(m)?B.ir:B.f2
 q=e.gl(0)
-q=A.yT(new A.dT(j.SQ(i),q,n),n,n,l,!0,n,n,l)
+q=A.yT(new A.dT(j.SP(i),q,n),n,n,l,!0,n,n,l)
 e=e.gl(0)
 o=A.cv(i).cV(m)?B.bM:B.he
 return new A.iH(new A.aeX(k),A.ck(n,A.f1(A.a([new A.iB(c,d,n),b,new A.iB(g,r,n),A.ami(A.a([q,A.yT(new A.dT(new A.aW(o,A.bB("Eu trabalho com a psicologia anal\xedtica, tamb\xe9m conhecida como psicologia junguiana ou psicologia complexa. Criada por C. G. Jung, \xe9 uma maneira de enxergar a psique humana e colocar em pr\xe1tica a psicoterapia, de forma ampla, muito bem fundamentada e testada por seu fundador.\nA psicologia de Jung, famosa por seu m\xe9todo de interpreta\xe7\xe3o dos sonhos e s\xedmbolos, tem como base o m\xe9todo dial\xe9tico em sua pr\xe1tica, onde a intera\xe7\xe3o das duas partes fazem a transforma\xe7\xe3o do processo terap\xeautico acontecer.\nSempre procuro me aprofundar cada vez mais nessa psicologia t\xe3o rica e fascinante, al\xe9m de exercer o meu trabalho com muita aten\xe7\xe3o, presen\xe7a e \xe9tica.",n,n,A.eX(i),B.aj),n),e,n),n,n,l,!0,B.d0,n,l)],p),s)],t.E),B.aF,n,B.Q),B.q,h.ay.CW,n,n,n,n,j.cy,n,n,n,n,f.a.a),B.TV)},
