@@ -40,6 +40,27 @@
   <script src="flutter.js" defer></script>
 </head>
 <body>
+
+  // Import Firebase core web
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+
+  <!-- Firebase Configuration -->
+  <script>
+    var firebaseConfig = {
+      apiKey: "AIzaSyDWJMwgRGT54qSENSXPC4fIkkjNkLFv0hA",
+      authDomain: "elsoriospsi-336bc.firebaseapp.com",
+      databaseURL: "https://elsoriospsi-336bc.firebaseio.com",
+      projectId: "elsoriospsi-336bc",
+      storageBucket: "elsoriospsi-336bc.appspot.com",
+      messagingSenderId: "332526046450",
+      appId: "1:332526046450:web:4da62cb1797c5524ead46b",
+      measurementId: "G-SP53SKR1JF",
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
+
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
